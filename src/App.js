@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          How Are You ??
+          Are You Nut ?
         </a>
       </header>
     </div>
